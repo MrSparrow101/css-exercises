@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.cluno,
+.cltres {
+    background-color: #FFB6C1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif
+}
+
+#iduno {
+    color: blue;
+    font-size: 36px;
+}
+
+.cltres {
+    font-size: 24px;
+}
+
+#iddos {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
